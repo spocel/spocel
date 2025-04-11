@@ -10,9 +10,8 @@
 
 ## 💻 技术栈
 
-*   C / C++ / Go / Python
-*   Node.js  / MySQL
-*   openwrt / Ubuntu
+*   主要使用C ，学习过C++ / Go / Python / Node.js / MySQL语法
+*   有openwrt / Ubuntu的操作系统经验
 
 ---
 
