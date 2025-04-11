@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, 我是 spocel!</h1>
+  <p>喜欢折腾网络</p>
 
-<!--
-**spocel/spocel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 技术栈
+
+*   C / C++ / Go / Python
+*   Node.js  / MySQL
+*   openwrt / Ubuntu
+
+---
+
+---
+
+<div align="center">
+  Star 我吧! ✨
+</div>
