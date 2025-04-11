@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, 我是 spocel!</h1>
-  <p>喜欢折腾网络</p>
+  <p>即将毕业，喜欢折腾网络</p>
 
 </div>
 
